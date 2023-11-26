@@ -50,8 +50,8 @@ class ListFragment : Fragment() {
             itemList.add(
                 ItemModel(
                     i,
-                    ('A' + i - 1).toString() + " Nguyen Ba",
-                    "0965504095",
+                    ('A' + i - 1).toString() + " Pham Vu H",
+                    "0943296684",
                     ('a' + i - 1).toString() + "@gmail.com"
                 )
             )
